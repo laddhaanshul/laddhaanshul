@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 my name is Anshul Laddha</h1>
-<h3 align="center">I'm a Software Engineer 󠀠󠀠👨🏽‍💻 󠀠󠀠󠀠<br>
-4+ years of professional experience in Mobile Application Development using Android, React Native and Xamarin. Experience in developing applications with Augmented Reality(AR) and Virtual Reality(VR) and for Wearable Glasses.
+<h3 align="center">I'm a Senior Software Engineer 󠀠󠀠👨🏽‍💻 󠀠󠀠󠀠<br>
+4+ years of professional experience in Mobile Application Development using Android, React Native and IOS.
   <br>
   <h4 align="center">Open Source contributor and like to solve real-life problems, with a mindset of optimization.</>
   <br>
@@ -11,7 +11,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laddhaanshul&color=green" alt="laddhaanshul" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=laddhaanshul&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs" alt="laddhaanshul" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laddhaanshul&hide=html&layout=compact&langs_count=10" alt="laddhaanshul" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laddhaanshul&hide=html&layout=compact&langs_count=20" alt="laddhaanshul" /> </p>
 
 
 - 📫 󠀠󠀠 How to reach me **laddhaanshul@gmail.com**
