@@ -19,6 +19,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/laddhaanshul/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="laddhaanshul" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/10453249/vikas-sharma" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="laddhaanshul" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="laddhaanshul" height="30" width="30" /></a>
 <a href="https://laddhaanshul.github.io/" target="blank"><img align="center" src="https://img.icons8.com/color/240/chrome--v1.png" alt="laddhaanshul" height="30" width="30" /></a>
 </p>
